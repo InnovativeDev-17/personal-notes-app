@@ -21,8 +21,8 @@ The project demonstrates the use of **Local Storage**, **DOM Manipulation**, and
 | Member Name | Role / Enhancement | GitHub Username |
 |--------------|--------------------|-----------------|
 | Aditya Dawane | Added Dark Mode feature | @adityadawane |
-| Om [Member 2] | Added Task Counter | @om123 |
-| Riya [Member 3] | Added Delete All Notes | @riya456 |
+| Om [Member 2] | Added Task Counter | @om |
+| Riya [Member 3] | Added Delete All Notes | @ishan |
 | Aryan [Member 4] | Added Download Notes | @aryan789 |
 
 ---
