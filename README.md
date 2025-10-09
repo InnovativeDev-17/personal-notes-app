@@ -23,7 +23,7 @@ The project demonstrates the use of **Local Storage**, **DOM Manipulation**, and
 | Aditya Dawane | Added Dark Mode feature | @adityadawane |
 | Om [Member 2] | Added Task Counter | @om |
 | Riya [Member 3] | Added Delete All Notes | @ishan |
-| Aryan [Member 4] | Added Download Notes | @aryan789 |
+| Aryan [Member 4] | Added Download Notes | @InnovtiveDev-17 |
 
 ---
 
