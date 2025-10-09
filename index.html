@@ -3,18 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple To-Do App</title>
+  <title>Smart Notes App</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>📝 Simple To-Do App</h1>
-    <input type="text" id="taskInput" placeholder="Enter a new task">
-    <button id="addBtn">Add Task</button>
-    <ul id="taskList"></ul>
+    <h1>📝 Smart Notes App</h1>
+
+    <div class="controls">
+      <input type="text" id="noteInput" placeholder="Enter your note">
+      <button id="addBtn">Add Note</button>
+    </div>
+
+    <div class="enhancements">
+      <button id="deleteAllBtn">Delete All</button>
+      <button id="downloadBtn">Download Notes</button>
+      <button id="darkModeBtn">Dark Mode</button>
+    </div>
+
+    <p id="counter">Total Notes: 0</p>
+
+    <ul id="noteList"></ul>
   </div>
 
+  <!-- Storage file first -->
   <script src="storage.js"></script>
+  <!-- Core JS logic -->
   <script src="script.js"></script>
 </body>
 </html>
