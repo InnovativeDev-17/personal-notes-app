@@ -21,8 +21,8 @@ The project demonstrates the use of **Local Storage**, **DOM Manipulation**, and
 | Member Name | Role / Enhancement | GitHub Username |
 |--------------|--------------------|-----------------|
 | Aditya Dawane | Added Dark Mode feature | @adityadawane |
-| Om [Member 2] | Added Task Counter | @om |
-| Riya [Member 3] | Added Delete All Notes | @ishan |
+| Om [Member 2] | Added Task Counter | @om |@Omnarkhade
+| Riya [Member 3] | Added Delete All Notes | @IshanShah20 |
 | Aryan [Member 4] | Added Download Notes | @InnovtiveDev-17 |
 
 ---
@@ -41,7 +41,7 @@ The project demonstrates the use of **Local Storage**, **DOM Manipulation**, and
 ## ⚙️ Technologies Used
 
 - **HTML5** – For structure  
-- **CSS3** – For styling and layout  
+- **CSS** – For styling and layout  
 - **JavaScript (ES6)** – For functionality and interactivity  
 - **LocalStorage API** – For saving notes data in the browser
 
